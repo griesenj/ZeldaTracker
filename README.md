@@ -1,6 +1,6 @@
 # The Legend of Zelda: Majora's Mask - Item Tracker
 
-**Work in progress - I plan to add tracking for keys, fairies, and other items eventually.**
+***WORK IN PROGRESS - I plan to add tracking for keys, fairies, and other items eventually.**
 
 This project is a Java-based GUI application that makes use of the Model View Controller design pattern to track in-game items collected throughout a Majora's Mask randomizer playthrough.
 
