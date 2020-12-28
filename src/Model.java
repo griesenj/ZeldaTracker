@@ -43,10 +43,7 @@ public class Model {
 	 * Populates LinkedHashMap & ArrayList from saved contents of collectables.txt file
 	 */
 	public void populateMapFromFile() {
-		try {	
-			
-			System.out.println(filePath);
-			
+		try {				
 			FileInputStream input = new FileInputStream(filePath);
 			BufferedReader reader = new BufferedReader(new InputStreamReader(input));
 			String keyValueText;

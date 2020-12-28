@@ -49,8 +49,13 @@ public class View extends JFrame {
 		JFrame zeldaFrame = new JFrame("Zelda: Majora's Mask - Item Tracker");
 		zeldaFrame.setSize(425, 625);
 		zeldaFrame.setResizable(false);
-		ImageIcon appIcon = new ImageIcon("src/img/_triforcelogo.png");
-		zeldaFrame.setIconImage(appIcon.getImage());
+		
+		try {
+			BufferedImage icon = ImageIO.read(getClass().getResource("/img/_triforcelogo.png"));
+			zeldaFrame.setIconImage(icon);
+		} catch (IOException e1) {
+			e1.printStackTrace();
+		}
 		
 		// Create Layout Manager
 		zeldaFrame.setLayout(new BorderLayout());
