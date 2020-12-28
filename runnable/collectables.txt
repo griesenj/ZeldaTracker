@@ -1,0 +1,68 @@
+Postman's Hat, 0
+All-Night Mask, 0
+Blast Mask, 0
+Stone Mask, 0
+Great Fairy's Mask, 0
+Deku Mask, 0
+Keaton Mask, 0
+Bremen Mask, 0
+Bunny Hood, 0
+Don Gero's Mask, 0
+Mask of Scents, 0
+Goron Mask, 0
+Romani's Mask, 0
+Circus Leader's Mask, 0
+Kafei's Mask, 0
+Couple's Mask, 0
+Mask of Truth, 0
+Zora Mask, 0
+Kamaro's Mask, 0
+Gibdo Mask, 0
+Garo's Mask, 0
+Captain's Hat, 0
+Giant's Mask, 0
+Fierce Deity's Mask, 0
+Ocarina of Time, 0
+Hero's Bow, 0
+Fire Arrow, 0
+Ice Arrow, 0
+Light Arrow, 0
+Room Key, 0
+Bomb, 0
+Bombchu, 0
+Deku Stick, 0
+Deku Nut, 0
+Magic Beans, 0
+Moon's Tear, 0
+Powder Keg, 0
+Pictograph Box, 0
+Lens of Truth, 0
+Hookshot, 0
+Great Fairy's Sword, 0
+Letter to Kafei, 0
+Red Potion, 0
+Gold Dust, 0
+Milk, 0
+Chateau Romani, 0
+Big Poe, 0
+Empty Bottle, 0
+Song of Time, 0
+Song of Healing, 0
+Epona's Song, 0
+Song of Soaring, 0
+Song of Storms, 0
+Sonata of Awakening, 0
+Goron Lullaby, 0
+New Wave Bossa Nova, 0
+Elegy of Emptiness, 0
+Oath to Order, 0
+Odolwa's Remains, 0
+Goht's Remains, 0
+Gyorg's Remains, 0
+Twinmold's Remains, 0
+Sword, 0
+Shield, 0
+Bombers' Notebook, 0
+Quiver, 0
+Bomb Bag, 0
+Wallet, 0

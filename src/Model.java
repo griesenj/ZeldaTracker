@@ -1,5 +1,6 @@
 import java.util.*;
 import java.io.BufferedReader;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -13,6 +14,7 @@ import java.io.PrintWriter;
 public class Model {
 	
 	// LinkedHashMap preserves insertion order (necessary for view updates)
+	String filePath = System.getProperty("user.dir") + File.separator + "collectables.txt";			
 	private LinkedHashMap<String, Integer> collectables;
 	private ArrayList<String> keys;
 	
@@ -36,15 +38,16 @@ public class Model {
 	public ArrayList<String> getKeyStrings() {
 		return keys;
 	}
-	
-	
+		
 	/**
 	 * Populates LinkedHashMap & ArrayList from saved contents of collectables.txt file
 	 */
 	public void populateMapFromFile() {
-		try {		
+		try {	
 			
-			FileInputStream input = new FileInputStream("src/collectables.txt");
+			System.out.println(filePath);
+			
+			FileInputStream input = new FileInputStream(filePath);
 			BufferedReader reader = new BufferedReader(new InputStreamReader(input));
 			String keyValueText;
 			while ((keyValueText = reader.readLine()) != null) {
@@ -76,7 +79,7 @@ public class Model {
 	 */
 	public void writeFileFromMap() {
 		try {
-			PrintWriter writer = new PrintWriter("src/collectables.txt", "UTF-8");
+			PrintWriter writer = new PrintWriter(filePath, "UTF-8");
 			collectables.entrySet().forEach(entry -> {
 				writer.println(entry.getKey() + ", " + entry.getValue());
 			});
