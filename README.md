@@ -6,6 +6,8 @@ This project is a Java-based GUI application that makes use of the Model View Co
 
 For a more detailed description of the project, please see [my presentation video](https://www.youtube.com/watch?v=CAQl9lpXcnQ&list=LLJMwrQ6-W7UdTNswm3hzgOQ).
 
+![ZeldaTracker Preview](https://i.imgur.com/RF65sKv.png)
+
 ## Installation Instructions
 
 There are two ways to run the application, both requiring use of the [JRE (Java Runtime Environment)](https://java.com/en/download/manual.jsp).
