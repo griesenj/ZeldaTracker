@@ -6,7 +6,7 @@ This project is a Java-based GUI application that makes use of the Model View Co
 
 For a more detailed description of the project, please see [my presentation video](https://www.youtube.com/watch?v=CAQl9lpXcnQ&list=LLJMwrQ6-W7UdTNswm3hzgOQ).
 
-| ![ZeldaTracker Motion](https://i.imgur.com/sEIteYu.gif) | ![ZeldaTracker Static](https://i.imgur.com/zoClvfk.png)] |
+| ![ZeldaTracker Motion](https://i.imgur.com/sEIteYu.gif) | ![ZeldaTracker Static](https://i.imgur.com/zoClvfk.png) |
 |:---:|:---:|
 
 ## Installation Instructions
